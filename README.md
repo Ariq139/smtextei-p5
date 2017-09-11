@@ -1,7 +1,7 @@
 SMTextei-P5
 ===========
 
-SMTextei-P5 is a simple text-based game on a game called Persona 5.
+SMTextei-P5 is a text-based game of Persona 5.
 
 This project is for fun only and won't be commercialized. Feel free to contribute and give me a suggestions.
 
