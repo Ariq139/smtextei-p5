@@ -1,9 +1,12 @@
 SMTextei-P5
 ===========
 
-SMTextei-P5 is a text-based game of Persona 5.
+SMTextei-P5 is a text-based game based on Persona 5.
 
-This project is for fun only and won't be commercialized. Feel free to contribute and give some suggestions.
+This project is for fun only and won't be commercialized. I got some of the game's information like battle system, MC activities, and the story itself by playing the actual game.
+
+I won't give the game's story for those who never played the game, and will delete this repo if Atlus tells me to do so.
+Feel free to contribute and give some suggestions.
 
 Reference:
 * [**Persona 5 Fuse Guide**](https://chinhodado.github.io/persona5_calculator/#/list).
